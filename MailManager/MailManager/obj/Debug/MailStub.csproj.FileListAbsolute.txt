@@ -1,0 +1,8 @@
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\bin\Debug\MailManager.exe.config
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\bin\Debug\MailManager.exe
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\bin\Debug\MailManager.pdb
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\obj\Debug\MailStub.csproj.AssemblyReference.cache
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\obj\Debug\MailStub.csproj.SuggestedBindingRedirects.cache
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\obj\Debug\MailStub.csproj.CoreCompileInputs.cache
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\obj\Debug\MailManager.exe
+C:\Users\mintboyyy\Desktop\Учёба\MailManager\MailManager\obj\Debug\MailManager.pdb

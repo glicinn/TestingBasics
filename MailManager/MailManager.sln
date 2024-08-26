@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailStub", "MailManager\MailStub.csproj", "{11DACB22-A2EA-4B5A-9A92-C830A1545256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailStub.Tests", "MailStub.Tests\MailStub.Tests.csproj", "{CEEEBDE1-80C2-4655-80B9-3E3D2A2D584D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DACB22-A2EA-4B5A-9A92-C830A1545256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DACB22-A2EA-4B5A-9A92-C830A1545256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DACB22-A2EA-4B5A-9A92-C830A1545256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DACB22-A2EA-4B5A-9A92-C830A1545256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEEEBDE1-80C2-4655-80B9-3E3D2A2D584D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEEBDE1-80C2-4655-80B9-3E3D2A2D584D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEEBDE1-80C2-4655-80B9-3E3D2A2D584D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEEBDE1-80C2-4655-80B9-3E3D2A2D584D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {631175F2-1EB3-4489-8F0D-913053A198B7}
+	EndGlobalSection
+EndGlobal
